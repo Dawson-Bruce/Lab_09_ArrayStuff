@@ -86,8 +86,8 @@ public class Main {
 
     public static double getAverage(int values[])
     {
-        int avg = 0;
-        int sum = 0;
+        double avg = 0;
+        double sum = 0;
 
         for (int i = 0; i < values.length; i++)
         {
